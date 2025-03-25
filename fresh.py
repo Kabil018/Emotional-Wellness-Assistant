@@ -8,7 +8,7 @@ from textblob import TextBlob
 from fpdf import FPDF
 
 # Configure Together AI API
-together.api_key = "18c6fa2e02eb288b23fa340015fa36ba5303c242b2debf238b25e15716937ae5"
+together.api_key = ""
 
 # Configure MySQL Connection
 def get_db_connection():
